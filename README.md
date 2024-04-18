@@ -2,8 +2,8 @@
 Data Research Project
 
 ################################  
-EDA.ipynb
-exploration data analysis
+EDA.ipynb  
+exploration data analysis  
 ################################  
 RandomForest.ipynb  
 Build models including training, validation and testing.  
