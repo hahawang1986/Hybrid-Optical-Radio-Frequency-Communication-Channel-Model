@@ -13,5 +13,6 @@ ModelFunctions.py
 Self-build function in this project  
 ################################  
 
+![image](https://github.com/hahawang1986/Hybrid-Optical-Radio-Frequency-Communication-Channel-Model/assets/117698602/02e62411-2c0c-4f91-88d1-51360d09986b)
 
 
